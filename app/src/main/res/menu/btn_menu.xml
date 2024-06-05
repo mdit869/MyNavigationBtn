@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home"
+        android:id="@+id/ic_home"
+        android:icon="@drawable/baseline_add_home_24"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Move"
+        android:id="@+id/ic_move"
+        android:icon="@drawable/baseline_10k_24"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title=""
+        android:id="@+id/ic_add"
+        android:icon="@drawable/baseline_add_a_photo_24"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Message"
+        android:icon="@drawable/baseline_3p_24"
+        android:id="@+id/ic_message"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Person"
+        android:id="@+id/ic_peson"
+        android:icon="@drawable/baseline_account_box_24"/>
+</menu>
